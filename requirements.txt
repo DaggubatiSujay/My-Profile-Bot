@@ -4,3 +4,4 @@ openai
 langchain_openai
 langchain_pinecone
 pinecone
+langchain
