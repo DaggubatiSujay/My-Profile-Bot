@@ -1,0 +1,6 @@
+streamlit==1.33.0
+streamlit-lottie==0.0.5
+openai
+langchain_openai
+langchain_pinecone
+pinecone
